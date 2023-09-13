@@ -1,7 +1,8 @@
 # PhotoPickerApp
 
 
-This is an in progress project built using JETPACK COMPOSE, all the implementation videos can be found at <a href ="https://www.youtube.com/@NativeMobileBits">Native Mobile Bits</a>.
+This is an in progress project built using JETPACK COMPOSE, all the implementation videos can be found 
+at <a href ="https://www.youtube.com/@NativeMobileBits">Native Mobile Bits</a>.
 
 In this video, we will learn how to pick images from android devices inside our apps, 
 
