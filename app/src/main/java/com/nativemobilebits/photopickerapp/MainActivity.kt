@@ -226,6 +226,14 @@ fun MultiplePhotoPickerScreen() {
                         model = selectedImageUri,
                         contentDescription = null,
                         contentScale = ContentScale.FillBounds
+
+//                                In the code, we have something called AsyncImage, inside that, we have contentScale, you can change the values there with
+//
+//                                contentScale = ContentScale.Fit
+//                                contentScale = ContentScale.Crop
+//                                contentScale = ContentScale.Inside
+//
+//                                and use the one which suits
                     )
                 }
             }
@@ -234,6 +242,9 @@ fun MultiplePhotoPickerScreen() {
 
     }
 }
+
+
+
 
 @Preview
 @Composable
